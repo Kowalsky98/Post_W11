@@ -1,0 +1,11 @@
+{
+    "mysql": {
+        "host": "tu-host",
+        "user": "tu-usuario",
+        "password": "tu-contraseña",
+        "database": "tu-base-de-datos"
+    },
+    "sqlite": {
+        "db_path": "C:/ruta/a/tu/sqlite.db"
+    }
+}
